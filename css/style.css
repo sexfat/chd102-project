@@ -1,16 +1,20 @@
 body {
    background-color: #e0e0e0;
-
+   font-size: 16px;
 
 }
 
 h1 {
-font-size: 40px;
+   font-size: 40px;
 
 }
 
 
 .about {
-    width: 100%;
-    max-width: 1200px;
+   width: 100%;
+   max-width: 1200px;
+}
+
+.index {
+   width: 1200px;
 }
