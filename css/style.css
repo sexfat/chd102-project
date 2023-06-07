@@ -8,3 +8,9 @@ h1 {
 font-size: 40px;
 
 }
+
+
+.about {
+    width: 100%;
+    max-width: 1200px;
+}
