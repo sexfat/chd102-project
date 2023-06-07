@@ -1,10 +1,15 @@
 body {
    background-color: #e0e0e0;
-
+    font-size: 16px;
 
 }
 
 h1 {
 font-size: 40px;
 
+}
+
+
+.index {
+   width: 1200px;
 }
